@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/battlebots/static/css/main.5b28a140.css",
+    "main.js": "/battlebots/static/js/main.c6ded91e.js",
+    "static/media/battlebots.jpg": "/battlebots/static/media/battlebots.8db171abf8dcc9c72461.jpg",
+    "static/media/logo.webp": "/battlebots/static/media/logo.177df15aa338a72f7f8f.webp",
+    "index.html": "/battlebots/index.html",
+    "main.5b28a140.css.map": "/battlebots/static/css/main.5b28a140.css.map",
+    "main.c6ded91e.js.map": "/battlebots/static/js/main.c6ded91e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b28a140.css",
+    "static/js/main.c6ded91e.js"
+  ]
+}
